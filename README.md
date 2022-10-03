@@ -60,7 +60,7 @@
                 
                 
                 
-                ****SPRCIAL THANKS TO MY TEAM MEMBERS****
+                ****SPECIAL THANKS TO MY TEAM MEMBERS****
                 * YASIR (Manager)
                 * DANISH (Admin)
                 * 
