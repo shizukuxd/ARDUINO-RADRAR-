@@ -35,7 +35,10 @@
 
 
 
-- COMPONENTS REQUIRES IN THIS PROJECT.
+                                        
+                                  **********************- COMPONENTS REQUIRES IN THIS PROJECT.*****************
+                                                         
+                                                         
 
 - BREADBOARD (CIRCUIT BOARD)
 
