@@ -63,10 +63,12 @@
                 
                 
                 ****SPECIAL THANKS TO MY TEAM MEMBERS****
-                * YASIR (Manager)
-                * DANISH (Admin)
+                * YASIR (ADMIN)
+                * DANISH (Manager)
+                * Muteeb(Manager)
+                * Noormah(Girl Mod)
+                * Falak (Girl Mod)
                 * 
-                *
 
 
 
